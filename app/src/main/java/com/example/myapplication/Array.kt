@@ -29,4 +29,4 @@ fun main(){
 }
 
 //데이터 클래스
-data class Fruit(val name : String, val price:Double)
+data class Fruits(val name : String, val price:Double)
